@@ -1,6 +1,6 @@
 # Doubly-LinkedList-Serialization
 
-WIP of custom serialization/deserialization of the doubly-linkedlist with a random node as one of the properties
+WIP of custom serialization/deserialization of the doubly-linked list with a random node as one of the properties
 
 Result of the testing:
 
