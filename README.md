@@ -9,3 +9,5 @@ Result of the testing:
 First is the new linkedlist filled with data and random references
 
 Second is the result of the deserialization of serialization of that linkedlist
+
+Build the .sln file by MS Visual Studio if you want to test it yourself
